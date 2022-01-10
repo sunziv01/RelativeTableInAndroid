@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RelativeLayout</string>
+    <string name="app_Sign_Up">New Member Registration</string>
+    <string name="app_Sign_Up_etFirstName">First Name</string>
+    <string name="app_Sign_Up_etLastName">Last Name</string>
+    <string name="app_Sign_Up_etEmail">Email</string>
+    <string name="app_Sign_Up_etPassword">Password</string>
+    <string name="app_Sign_Up_etConfirmPassword">Confirm Password</string>
+    <string name="app_Sign_Up_btSignUp">SignUp</string>
+
+</resources>
